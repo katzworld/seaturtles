@@ -1,4 +1,4 @@
 # seaturtles
-source code for the sea turtles now defunt 
-
+## source code for the sea turtles now extinct  
+ 
 I am an arms dealer . now dealing in arms in the metaverse ?   the arms race has start for $bob.  everyone wants $bob I gotcha fam $bob is cool and needed for later dev things like buildings and walls.   but you can hold me back man  I want to swim freely in the waters but must move faster so I harnessed the fast strong lets fucking go moto and slap down that fat stack of Eth here I will make your life a little easier with a thingy that upon clicky clicky (dyor please know what you are doing)  you will be sent to some desolate plot of water in the middle of NOWWHERE ... on the globe with your HUGE chance to strike it big maybe a 20 $bob or maybe 0  who knows ... I know one thing this beat  swimming ... enough with this sales pitch buy my thing mine som water $bob and get some plots going.  ps dont like your surroundings F5 fool go somewhere else  
