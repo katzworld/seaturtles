@@ -1,0 +1,17 @@
+// ==UserScript==
+// @name         WatRWorlD?
+// @namespace    http://tampermonkey.net/
+// @version      1
+// @description  teleporter lets GO!
+// @author       KaTZWorlD on twitter or in the Discord katworld#1337
+// @match        http*://play.tmwstw.io/*
+// @require      https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+// @grant        none
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
+// ==/UserScript==
+jQuery('#plot_start_title').remove()
+let rPlot =  Math.floor(Math.random() * (9999 - 4520 + 1) + 4520) //scuba STEVE!!!! water world fucker looking for a grain of sand to harness the moment in the ocean
+let dBC = '<h3 class="tit_3" id="plot_start_title" style="display: block;">Sea Turtles Aye ! SeaTurles !! </h3> <button class="all_plots_buttons" id="all_plots_buttons"  name="RNG" >WATER BOUND!</button>'
+jQuery('.player_plots_container').after(dBC)
+jQuery(".all_plots_buttons:contains('WATER BOUND!')").attr('name',rPlot)
+jQuery('#player_plots_container').remove()
